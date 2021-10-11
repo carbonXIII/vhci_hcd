@@ -15,3 +15,5 @@ modules.order
 /*.tar.gz
 /html
 *~
+*.cmd
+*.mod
